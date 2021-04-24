@@ -1,0 +1,11 @@
+i,j,k = 10,20,30
+
+print(i)
+print(j)
+print(k)
+
+m = n = o = 40
+
+print(m)
+print(m)
+print(o)
